@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Richard Ombrog
-- 👀 I’m interested in ... Game Development, Software Development And, Web Development
+- 👀 I’m interested in ... Game Development And, Web Development
 - 🌱 I’m currently learning ... Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
